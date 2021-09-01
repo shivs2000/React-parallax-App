@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/React-parallax-App/static/js/main.131a4e70.chunk.js",
+    "main.js.map": "/React-parallax-App/static/js/main.131a4e70.chunk.js.map",
+    "runtime-main.js": "/React-parallax-App/static/js/runtime-main.b402f012.js",
+    "runtime-main.js.map": "/React-parallax-App/static/js/runtime-main.b402f012.js.map",
+    "static/js/2.1301e0dc.chunk.js": "/React-parallax-App/static/js/2.1301e0dc.chunk.js",
+    "static/js/2.1301e0dc.chunk.js.map": "/React-parallax-App/static/js/2.1301e0dc.chunk.js.map",
+    "static/js/3.692da086.chunk.js": "/React-parallax-App/static/js/3.692da086.chunk.js",
+    "static/js/3.692da086.chunk.js.map": "/React-parallax-App/static/js/3.692da086.chunk.js.map",
+    "index.html": "/React-parallax-App/index.html",
+    "static/js/2.1301e0dc.chunk.js.LICENSE.txt": "/React-parallax-App/static/js/2.1301e0dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b402f012.js",
+    "static/js/2.1301e0dc.chunk.js",
+    "static/js/main.131a4e70.chunk.js"
+  ]
+}
